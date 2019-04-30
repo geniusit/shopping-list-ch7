@@ -1,0 +1,24 @@
+{
+  "shoppinglists": [
+    {
+      "title": "ng List",
+      "items": [
+        {
+          "text": "iii",
+          "checked": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "id": 2
+    },
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "id": 3
+    }
+  ]
+}
